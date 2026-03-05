@@ -57,10 +57,6 @@ title: About
       <span>Gave oral presentation at Stanford Postbaccalaureate Research Capstone Symposium </span>
     </li>
     <li>
-      <span class="news-date">Sep 2025</span>
-      <span>Manuscript on <strong>CODEC</strong> (causal interpretation of neural network computations) submitted for review.</span>
-    </li>
-    <li>
       <span class="news-date">Aug 2024</span>
       <span>Published in <em>Journal of Cognitive Neuroscience</em>: <a href="https://direct.mit.edu/jocn/article-abstract/36/8/1546/120297/Familiarity-Alters-the-Bandwidth-of-Perceptual">Familiarity Alters the Bandwidth of Perceptual Awareness</a>.</span>
     </li>
