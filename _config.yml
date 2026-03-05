@@ -1,0 +1,23 @@
+title: Zaki Alaoui
+author: Zaki Ellis M'hammedi Alaoui
+description: Neuroscience researcher at Stanford. Studying visual computation, neural circuits, and artificial neural networks.
+url: "https://zalaoui3.github.io"
+lang: en
+timezone: America/Los_Angeles
+markdown: kramdown
+
+plugins:
+  - jekyll-sitemap
+
+comments: false
+
+# Navigation
+navigation:
+  - title: "About"
+    url: /
+  - title: "Research"
+    url: /research/
+  - title: "Publications"
+    url: /publications/
+  - title: "CV"
+    url: /cv/

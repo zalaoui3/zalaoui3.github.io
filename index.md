@@ -1,0 +1,69 @@
+---
+layout: home
+title: About
+---
+
+<div class="home-intro">
+  <div>
+    <img src="/assets/people/headshot.jpg" alt="Zaki Alaoui" class="home-photo" onerror="this.outerHTML='<div class=\'home-photo-placeholder\'>Photo<br>coming<br>soon</div>'">
+  </div>
+  <div class="home-bio">
+    <h1>Zaki Ellis M'hammedi Alaoui</h1>
+    <p class="home-position">
+      Stanford PEAR Scholar &nbsp;&middot;&nbsp; Department of Neurobiology<br>
+      Stanford University School of Medicine &nbsp;&middot;&nbsp; Baccus Lab
+    </p>
+    <p>
+      I am a postbaccalaureate researcher in the <a href="https://baccuslab.github.io">Baccus Lab</a> at Stanford Medicine,
+      where I study how the visual system encodes information during natural behavior. My current work focuses on
+      the effects of locomotion and saccadic eye movements on visual representations in the primary visual cortex of mice,
+      combining large-scale neural recording with convolutional neural network modeling.
+    </p>
+    <p>
+      I am also interested in the computations performed by artificial neural networks as models of the brain.
+      In ongoing work, I apply causal analysis methods to uncover interpretable computational structures in
+      models of the salamander retina, moving beyond standard activation-based approaches.
+    </p>
+    <p>
+      I graduated from Amherst College in 2024 with a B.A. in Neuroscience, <em>magna cum laude</em>, where my
+      senior thesis — supervised by <a href="#">Dr. Michael A. Cohen</a> — investigated how familiarity with
+      natural scenes alters the bandwidth of conscious perceptual awareness.
+    </p>
+    <div class="home-links">
+      <a href="mailto:zalaoui217@gmail.com">Email</a>
+      <a href="/publications/">Publications</a>
+      <a href="/cv/">CV</a>
+      <a href="https://github.com/zalaoui3">GitHub</a>
+    </div>
+  </div>
+</div>
+
+<div class="section">
+  <div class="section-title">Recent News</div>
+  <ul class="news-list">
+    <li>
+      <span class="news-date">Nov 2025</span>
+      <span>Presented poster at <strong>Society for Neuroscience 2025</strong>, San Diego — eye-tracking to correct gaze shifts in mouse visual cortex recordings.</span>
+    </li>
+    <li>
+      <span class="news-date">Aug 2025</span>
+      <span>Received the <strong>Trainee Professional Development Award</strong> from the Society for Neuroscience.</span>
+    </li>
+    <li>
+      <span class="news-date">May 2025</span>
+      <span>Selected for the <strong>Black in Neuro Mentorship Program</strong> 2025–2026 cohort.</span>
+    </li>
+    <li>
+      <span class="news-date">May 2025</span>
+      <span>Gave oral presentation at Stanford Postbaccalaureate Research Capstone Symposium — selected as 1 of 5 from 20 presenters.</span>
+    </li>
+    <li>
+      <span class="news-date">Sep 2025</span>
+      <span>Manuscript on <strong>CODEC</strong> (causal interpretation of neural network computations) submitted for review.</span>
+    </li>
+    <li>
+      <span class="news-date">Aug 2024</span>
+      <span>Published in <em>Journal of Cognitive Neuroscience</em>: <a href="https://doi.org/10.1162/jocn_a_02158">Familiarity Alters the Bandwidth of Perceptual Awareness</a>.</span>
+    </li>
+  </ul>
+</div>
