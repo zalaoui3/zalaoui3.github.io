@@ -161,7 +161,7 @@ hr {
    ============================================= */
 .home-intro {
   display: grid;
-  grid-template-columns: 200px 1fr;
+  grid-template-columns: 280px 1fr;
   gap: 2.5rem;
   align-items: start;
   margin-bottom: 3rem;
@@ -173,8 +173,8 @@ hr {
 }
 
 .home-photo {
-  width: 200px;
-  height: 200px;
+  width: 280px;
+  height: 350px;
   border-radius: 6px;
   object-fit: cover;
   object-position: top center;
@@ -188,8 +188,8 @@ hr {
 }
 
 .home-photo-placeholder {
-  width: 200px;
-  height: 200px;
+  width: 280px;
+  height: 350px;
   border-radius: 6px;
   border: 2px dashed $color-border;
   background: $color-border-light;
