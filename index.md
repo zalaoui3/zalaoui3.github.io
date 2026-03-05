@@ -29,6 +29,7 @@ title: About
       natural scenes alters the bandwidth of conscious perceptual awareness.
     </p>
     <div class="home-links">
+      <a href="https://www.linkedin.com/in/zaki-alaoui/">LinkedIn</a>
       <a href="mailto:zalaoui217@gmail.com">Email</a>
       <a href="https://github.com/zalaoui3">GitHub</a>
     </div>
