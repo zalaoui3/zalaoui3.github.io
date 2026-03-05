@@ -40,7 +40,7 @@ title: About
   <ul class="news-list">
     <li>
       <span class="news-date">Jan 2026</span>
-      <span>Wrote a piece on the importance of mentorship in science and what it means to pay it forward.</span>
+      <span>Wrote a piece on <a href="https://blackinneuro.com/perspectives/xw5lklbku9wunjsa4b7atsors4qmyl">the importance of mentorship in science and what it means to pay it forward</a>.</span>
     </li>
     <li>
       <span class="news-date">Nov 2025</span>
