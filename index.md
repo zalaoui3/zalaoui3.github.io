@@ -39,6 +39,10 @@ title: About
   <div class="section-title">Recent News</div>
   <ul class="news-list">
     <li>
+      <span class="news-date">Jan 2026</span>
+      <span>Wrote a piece on the importance of mentorship in science and what it means to pay it forward.</span>
+    </li>
+    <li>
       <span class="news-date">Nov 2025</span>
       <span>Presented poster at <strong>Society for Neuroscience 2025</strong>, San Diego — eye-tracking to correct gaze shifts in mouse visual cortex recordings.</span>
     </li>
