@@ -30,8 +30,6 @@ title: About
     </p>
     <div class="home-links">
       <a href="mailto:zalaoui217@gmail.com">Email</a>
-      <a href="/publications/">Publications</a>
-      <a href="/cv/">CV</a>
       <a href="https://github.com/zalaoui3">GitHub</a>
     </div>
   </div>
