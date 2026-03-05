@@ -1,6 +1,7 @@
 ---
 layout: home
 title: About
+
 ---
 
 <div class="home-intro">
