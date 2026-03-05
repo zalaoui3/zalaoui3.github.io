@@ -10,7 +10,7 @@ title: About
   <div class="home-bio">
     <h1>Zaki Ellis M'hammedi Alaoui</h1>
     <p class="home-position">
-      Stanford PEAR Scholar &nbsp;&middot;&nbsp; Department of Neurobiology<br>
+      Stanford Medicine Postbaccalaureate Experience in Research Scholar &nbsp;&middot;&nbsp; Department of Neurobiology<br>
       Stanford University School of Medicine &nbsp;&middot;&nbsp; Baccus Lab
     </p>
     <p>
