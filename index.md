@@ -55,7 +55,7 @@ title: About
     </li>
     <li>
       <span class="news-date">May 2025</span>
-      <span>Gave oral presentation at Stanford Postbaccalaureate Research Capstone Symposium — selected as 1 of 5 from 20 presenters.</span>
+      <span>Gave oral presentation at Stanford Postbaccalaureate Research Capstone Symposium </span>
     </li>
     <li>
       <span class="news-date">Sep 2025</span>
@@ -63,7 +63,7 @@ title: About
     </li>
     <li>
       <span class="news-date">Aug 2024</span>
-      <span>Published in <em>Journal of Cognitive Neuroscience</em>: <a href="https://doi.org/10.1162/jocn_a_02158">Familiarity Alters the Bandwidth of Perceptual Awareness</a>.</span>
+      <span>Published in <em>Journal of Cognitive Neuroscience</em>: <a href="https://direct.mit.edu/jocn/article-abstract/36/8/1546/120297/Familiarity-Alters-the-Bandwidth-of-Perceptual">Familiarity Alters the Bandwidth of Perceptual Awareness</a>.</span>
     </li>
   </ul>
 </div>
