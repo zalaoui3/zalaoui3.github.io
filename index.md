@@ -70,7 +70,7 @@ title: About
     </li>
     <li>
       <span class="news-date">May 2025</span>
-      <span>Selected for the <strong><a href="https://blackinneuro.com/perspectives/xw5lklbku9wunjsa4b7atsors4qmyl">Black in Neuro Mentorship Program</a></strong> 2025–2026 cohort.</span>
+      <span>Selected for the <strong><a href="https://www.blackinneuro.com/blog/bin-mentee-spotlight-zaki-alaoui">Black in Neuro Mentorship Program</a></strong> 2025–2026 cohort.</span>
     </li>
     <li>
       <span class="news-date">May 2025</span>
