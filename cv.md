@@ -92,16 +92,37 @@ title: CV
 
   <div class="cv-entry">
     <div class="cv-entry-main">
-      <p>*<strong>Alaoui, Z.</strong>, *Melander, J.B., *Au, D.D., Weddington, J.C., Liu, S., Faragalla, Y., Baccus, S. Eye movements cause an overestimation of locomotion-induced modulation in mouse visual cortex. <em>Manuscript In Preparation.</em></p>
+      <p>Weddington, J.C., Au, D.D., Melander, J.B., Faragalla, Y., <strong>Alaoui, Z.</strong>, Baccus, S. Parallel construction of object motion from retina to cortex. <em>bioRxiv.</em></p>
     </div>
-    <div class="cv-entry-date">Oct 2025</div>
+    <div class="cv-entry-date">Jul 2026</div>
   </div>
 
   <div class="cv-entry">
     <div class="cv-entry-main">
-      <p>*Melander, J.B., *<strong>Alaoui, Z.</strong>, Liu, S., Ganguli, S., Baccus, S. Causal Interpretation of Neural Network Computations with Contribution Decomposition (CODEC). <em>In Review.</em></p>
+      <p>*<strong>Alaoui, Z.</strong>, *Melander, J.B., *Au, D.D., *Faragalla, Y., Weddington, J.C., Liu, S., Baccus, S. Eye movements cause an overestimation of locomotion-induced modulation in mouse visual cortex. <em>Manuscript In Preparation.</em></p>
     </div>
-    <div class="cv-entry-date">Sep 2025</div>
+    <div class="cv-entry-date">Jun 2026</div>
+  </div>
+
+  <div class="cv-entry">
+    <div class="cv-entry-main">
+      <p>Bekele, B.A., <strong>Alaoui, Z.</strong>, Mofor, N.A., Memudu, A.E. Mentorship as a Mechanism for Equity, Retention & Scientific Innovation in Neuroscience-Related Careers. <em>Oxford Open Neuroscience.</em></p>
+    </div>
+    <div class="cv-entry-date">Jun 2026</div>
+  </div>
+
+  <div class="cv-entry">
+    <div class="cv-entry-main">
+      <p>Au, D.D., Melander, J.B., Weddington, J.C., Faragalla, Y., <strong>Alaoui, Z.</strong>, Liu, S., Xu, Q., Baccus, S. Single-camera, calibration-free gaze estimation using corneal reflections. <em>bioRxiv.</em></p>
+    </div>
+    <div class="cv-entry-date">Jun 2026</div>
+  </div>
+
+  <div class="cv-entry">
+    <div class="cv-entry-main">
+      <p>*Melander, J.B., *<strong>Alaoui, Z.</strong>, Liu, S., Ganguli, S., Baccus, S. Causal Interpretation of Neural Network Computations with Contribution Decomposition (CODEC). <em>ICLR 2026.</em></p>
+    </div>
+    <div class="cv-entry-date">Apr 2026</div>
   </div>
 
   <div class="cv-entry">
@@ -114,6 +135,46 @@ title: CV
 
 <div class="cv-section">
   <div class="cv-section-title">Awards & Honors</div>
+
+  <div class="cv-entry">
+    <div class="cv-entry-main">
+      <span class="cv-entry-title">Sundial Immortal Dragons Award</span>
+      <span class="cv-entry-subtitle">Sundial Initiative & NextBioLeader — inaugural trainee award, sole recipient recognizing exceptional leadership potential in academia and biomedical research</span>
+    </div>
+    <div class="cv-entry-date">Jun 2026</div>
+  </div>
+
+  <div class="cv-entry">
+    <div class="cv-entry-main">
+      <span class="cv-entry-title">NSF Graduate Research Fellowship (GRFP)</span>
+      <span class="cv-entry-subtitle">National Science Foundation — three years of financial support for graduate research in systems and computational neuroscience</span>
+    </div>
+    <div class="cv-entry-date">Apr 2026</div>
+  </div>
+
+  <div class="cv-entry">
+    <div class="cv-entry-main">
+      <span class="cv-entry-title">Gruber Science Fellowship</span>
+      <span class="cv-entry-subtitle">Yale University — most prestigious award offered by Yale's Graduate School of Arts and Sciences</span>
+    </div>
+    <div class="cv-entry-date">Apr 2026</div>
+  </div>
+
+  <div class="cv-entry">
+    <div class="cv-entry-main">
+      <span class="cv-entry-title">Financial Assistance Award</span>
+      <span class="cv-entry-subtitle">International Conference on Learning Representations (ICLR) — competitive financial assistance to attend ICLR 2026</span>
+    </div>
+    <div class="cv-entry-date">Mar 2026</div>
+  </div>
+
+  <div class="cv-entry">
+    <div class="cv-entry-main">
+      <span class="cv-entry-title">Knight-Hennessy Scholarship Finalist</span>
+      <span class="cv-entry-subtitle">Stanford University — top 150 applicants from a pool of over 5,000 worldwide</span>
+    </div>
+    <div class="cv-entry-date">Mar 2026</div>
+  </div>
 
   <div class="cv-entry">
     <div class="cv-entry-main">

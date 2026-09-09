@@ -11,17 +11,22 @@ title: About
   <div class="home-bio">
     <h1>Zaki Ellis Alaoui</h1>
     <p class="home-position">
-      Stanford Medicine Postbaccalaureate Experience in Research Scholar &nbsp;&middot;&nbsp; Department of Neurobiology<br>
+      Incoming PhD Student, Yale Interdisciplinary Neuroscience Program (INP) &nbsp;&middot;&nbsp; NSF Graduate Research Fellow &nbsp;&middot;&nbsp; Gruber Science Fellow<br>
     </p>
     <p>
-      I am a postbaccalaureate researcher in the <a href="https://baccuslab.github.io">Baccus Lab</a> at the Stanford School of Medicine,
-      where I study how the visual system encodes information during natural behavior. My current work focuses on
-      the effects of locomotion and saccadic eye movements on visual representations in the primary visual cortex of mice,
-      combining large-scale neural recording with convolutional neural network modeling.
+      I am an incoming PhD student in the Interdisciplinary Neuroscience Program at Yale University, supported by an
+      NSF Graduate Research Fellowship and a Gruber Science Fellowship. My research sits at the intersection of
+      systems neuroscience and computational modeling of the visual system.
+    </p>
+    <p>
+      Most recently, I was a postbaccalaureate researcher in the <a href="https://baccuslab.github.io">Baccus Lab</a> at
+      Stanford School of Medicine, where I studied how the visual system encodes information during natural behavior,
+      focusing on the effects of locomotion and saccadic eye movements on visual representations in the primary visual
+      cortex of mice, combining large-scale neural recording with convolutional neural network modeling.
     </p>
     <p>
      I am also interested in the computations performed by artificial neural networks as models of the brain.
-      In ongoing work, I apply causal analysis methods to uncover interpretable computational structures in models of the salamander retina and image classification networks.
+      In this work, I applied causal analysis methods to uncover interpretable computational structures in models of the salamander retina and image classification networks.
     </p>
     <p>
       I graduated from Amherst College in 2024 with a B.A. in Neuroscience, <em>magna cum laude</em>, where my
@@ -39,6 +44,18 @@ title: About
 <div class="section">
   <div class="section-title">Recent News</div>
   <ul class="news-list">
+    <li>
+      <span class="news-date">Aug 2026</span>
+      <span>Received the <strong>Sundial Immortal Dragons Award</strong> from the Sundial Initiative & NextBioLeader — inaugural trainee award, sole recipient.</span>
+    </li>
+    <li>
+      <span class="news-date">Apr 2026</span>
+      <span>Awarded the <strong>NSF Graduate Research Fellowship (GRFP)</strong> and the <strong>Gruber Science Fellowship</strong> at Yale University.</span>
+    </li>
+    <li>
+      <span class="news-date">Apr 2026</span>
+      <span>Presented a poster on <strong>CODEC</strong> at <strong>ICLR 2026</strong> in Rio de Janeiro, Brazil.</span>
+    </li>
     <li>
       <span class="news-date">Jan 2026</span>
       <span>Wrote a piece on <a href="https://www.blackinneuro.com/blog/bin-mentee-spotlight-zaki-alaoui">the importance of mentorship in science and what it means to pay it forward</a>.</span>
