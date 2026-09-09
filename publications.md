@@ -13,17 +13,19 @@ title: Publications
   </li>
 </ul>
 
-## Preprints & Manuscripts in Review
+## Conference Papers
 
 <ul class="pub-list">
   <li class="pub-item">
-    <span class="pub-title">
-      Causal Interpretation of Neural Network Computations with Contribution Decomposition (CODEC)
-      <span class="pub-status">In Review</span>
-    </span>
+    <span class="pub-title">Causal Interpretation of Neural Network Computations with Contribution Decomposition (CODEC)</span>
     <div class="pub-authors">*Melander, J.B., *<strong>Alaoui, Z.</strong>, Liu, S., Ganguli, S., Baccus, S.</div>
-    <div class="pub-venue">* co-first authors &nbsp;&middot;&nbsp; September 2025</div>
+    <div class="pub-venue">* co-first authors &nbsp;&middot;&nbsp; <em>ICLR 2026.</em> &nbsp;<a href="https://proceedings.iclr.cc/paper_files/paper/2026/hash/3b36297debce91932600be70800bc094-Abstract-Conference.html">Paper</a></div>
   </li>
+</ul>
+
+## Preprints & Manuscripts in Review
+
+<ul class="pub-list">
   <li class="pub-item">
     <span class="pub-title">
       Eye Movements Cause an Overestimation of Locomotion-Induced Modulation in Mouse Visual Cortex
