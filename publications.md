@@ -23,19 +23,6 @@ title: Publications
   </li>
 </ul>
 
-## Preprints & Manuscripts in Review
-
-<ul class="pub-list">
-  <li class="pub-item">
-    <span class="pub-title">
-      Eye Movements Cause an Overestimation of Locomotion-Induced Modulation in Mouse Visual Cortex
-      <span class="pub-status">In Preparation</span>
-    </span>
-    <div class="pub-authors">*<strong>Alaoui, Z.</strong>, *Melander, J.B., *Au, D.D., Weddington, J.C., Liu, S., Faragalla, Y., Baccus, S.</div>
-    <div class="pub-venue">* co-first authors &nbsp;&middot;&nbsp; October 2025</div>
-  </li>
-</ul>
-
 ## Selected Presentations
 
 <ul class="pub-list">
