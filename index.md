@@ -11,7 +11,7 @@ title: About
   <div class="home-bio">
     <h1>Zaki Ellis Alaoui</h1>
     <p class="home-position">
-      1st Year PhD Student, Yale Interdisciplinary Neuroscience Program (INP) &nbsp;&middot;&nbsp; NSF Graduate Research Fellow &nbsp;&middot;&nbsp; Gruber Science Fellow<br>
+      1st Year PhD Student, Yale Interdepartmental Neuroscience Program (INP) &nbsp;&middot;&nbsp; NSF Graduate Research Fellow &nbsp;&middot;&nbsp; Gruber Science Fellow<br>
     </p>
     <p>
       I am a 1st-year PhD student in the Interdisciplinary Neuroscience Program at Yale University, supported by an
