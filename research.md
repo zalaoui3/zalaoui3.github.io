@@ -12,7 +12,7 @@ My research sits at the intersection of systems neuroscience and computational m
   <h3>Locomotion, Eye Movements, and Visual Cortical Encoding</h3>
   <p>
     Running strongly modulates neural responses in the primary visual cortex, but the mechanism is unclear.
-    I developed an eye-tracking algorithm to quantify gaze dynamics during locomotion in head-fixed mice
+    I contributed to an eye-tracking algorithm to quantify gaze dynamics during locomotion in head-fixed mice
     navigating a virtual reality environment, and built convolutional neural network models to explore how
     locomotion and eye movements jointly shape population-level visual encoding in mouse primary visual cortex.
   </p>
