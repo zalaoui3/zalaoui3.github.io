@@ -7,6 +7,11 @@ title: Publications
 
 <ul class="pub-list">
   <li class="pub-item">
+    <span class="pub-title">Mentorship as a Mechanism for Equity, Retention &amp; Scientific Innovation in Neuroscience-related Careers</span>
+    <div class="pub-authors">Bekele, B.A., <strong>Alaoui, Z.</strong>, Mofor, N.A., &amp; Memudu, A.E.</div>
+    <div class="pub-venue"><em>Oxford Open Neuroscience</em>, 5, kvag005. &nbsp;<a href="https://doi.org/10.1093/oons/kvag005">DOI</a></div>
+  </li>
+  <li class="pub-item">
     <span class="pub-title">Familiarity Alters the Bandwidth of Perceptual Awareness</span>
     <div class="pub-authors">Cohen, M.A., Sung, S., &amp; <strong>Alaoui, Z.</strong></div>
     <div class="pub-venue"><em>Journal of Cognitive Neuroscience</em>, 36(8), 1546–1556. &nbsp;<a href="https://doi.org/10.1162/jocn_a_02158">DOI</a></div>
