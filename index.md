@@ -14,7 +14,7 @@ title: About
       1st Year PhD Student, Yale Interdepartmental Neuroscience Program (INP) &nbsp;&middot;&nbsp; NSF Graduate Research Fellow &nbsp;&middot;&nbsp; Gruber Science Fellow<br>
     </p>
     <p>
-      I am a 1st-year PhD student in the Interdisciplinary Neuroscience Program at Yale University, supported by an
+      I am a 1st-year PhD student in the Interdepartmental Neuroscience Program at Yale University, supported by an
       NSF Graduate Research Fellowship and a Gruber Science Fellowship. My research sits at the intersection of
       systems neuroscience and computational modeling of the visual system.
     </p>
