@@ -11,10 +11,10 @@ title: About
   <div class="home-bio">
     <h1>Zaki Ellis Alaoui</h1>
     <p class="home-position">
-      Incoming PhD Student, Yale Interdisciplinary Neuroscience Program (INP) &nbsp;&middot;&nbsp; NSF Graduate Research Fellow &nbsp;&middot;&nbsp; Gruber Science Fellow<br>
+      1st Year PhD Student, Yale Interdisciplinary Neuroscience Program (INP) &nbsp;&middot;&nbsp; NSF Graduate Research Fellow &nbsp;&middot;&nbsp; Gruber Science Fellow<br>
     </p>
     <p>
-      I am an incoming PhD student in the Interdisciplinary Neuroscience Program at Yale University, supported by an
+      I am an 1st Year PhD student in the Interdisciplinary Neuroscience Program at Yale University, supported by an
       NSF Graduate Research Fellowship and a Gruber Science Fellowship. My research sits at the intersection of
       systems neuroscience and computational modeling of the visual system.
     </p>
