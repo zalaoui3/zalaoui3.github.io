@@ -5,10 +5,10 @@ title: Research
 
 My research sits at the intersection of systems neuroscience and computational modeling. I am broadly interested in how the visual system encodes and transforms sensory information during natural, dynamic behavior, and in developing computational tools to understand both biological and artificial neural networks.
 
-## Current Projects
+## Previous Research
 
 <div class="research-item">
-  <div class="research-meta">Stanford University School of Medicine &nbsp;&middot;&nbsp; Baccus Lab &nbsp;&middot;&nbsp; 2024–present</div>
+  <div class="research-meta">Stanford University School of Medicine &nbsp;&middot;&nbsp; Baccus Lab &nbsp;&middot;&nbsp; 2024–2026</div>
   <h3>Locomotion, Eye Movements, and Visual Cortical Encoding</h3>
   <p>
     Running strongly modulates neural responses in the primary visual cortex, but the mechanism is unclear.
@@ -19,7 +19,7 @@ My research sits at the intersection of systems neuroscience and computational m
 </div>
 
 <div class="research-item">
-  <div class="research-meta">Stanford University School of Medicine &nbsp;&middot;&nbsp; Baccus Lab &nbsp;&middot;&nbsp; 2024–present</div>
+  <div class="research-meta">Stanford University School of Medicine &nbsp;&middot;&nbsp; Baccus Lab &nbsp;&middot;&nbsp; 2024–2026</div>
   <h3>Causal Interpretation of Neural Network Computations (CODEC)</h3>
   <p>
     Standard methods for interpreting neural networks (e.g., activation maximization, saliency maps) describe
@@ -29,8 +29,6 @@ My research sits at the intersection of systems neuroscience and computational m
     that cannot be uncovered through correlation-based analyses alone.
   </p>
 </div>
-
-## Previous Research
 
 <div class="research-item">
   <div class="research-meta">Amherst College &nbsp;&middot;&nbsp; Cohen Lab &nbsp;&middot;&nbsp; 2023–2024</div>
