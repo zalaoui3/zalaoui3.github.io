@@ -24,7 +24,7 @@ My research sits at the intersection of systems neuroscience and computational m
   <p>
     Standard methods for interpreting neural networks (e.g., activation maximization, saliency maps) describe
     <em>what</em> a network responds to but not <em>why</em>. I am a co-author on CODEC, a causal framework
-    that decomposes the contribution of individual units to network outputs by intervening on activations.
+    that decomposes the contribution of individual units to network outputs by intervening on the activation x the gradient, which we coin as contributions.
     Applied to deep retinal models of the salamander, CODEC reveals interpretable computational structures
     that cannot be uncovered through correlation-based analyses alone.
   </p>
